@@ -1,0 +1,1 @@
+Simple CLI port scanner with command line arguments.  Use it with cargo run -- --address 192.168.1.1 --start 1 --end 1000 where address is the ip address, start and end define the range of port that will be scanned.
